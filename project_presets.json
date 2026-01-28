@@ -109,11 +109,6 @@
   "source": "Arc Raiders - Scrappy Upgrade",
   "stages": [
     {
-      "stageId": "level_1",
-      "title": "Level 1",
-      "items": []
-    },
-    {
       "stageId": "level_2",
       "title": "Level 2",
       "items": [
