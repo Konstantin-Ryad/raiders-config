@@ -102,5 +102,50 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "projectId": "scrappy",
+  "title": "Scrappy",
+  "source": "Arc Raiders - Scrappy Upgrade",
+  "stages": [
+    {
+      "stageId": "level_1",
+      "title": "Level 1",
+      "items": []
+    },
+    {
+      "stageId": "level_2",
+      "title": "Level 2",
+      "items": [
+        { "itemId": "dog_collar", "quantity": 1 }
+      ]
+    },
+    {
+      "stageId": "level_3",
+      "title": "Level 3",
+      "items": [
+        { "itemId": "lemon", "quantity": 3 },
+        { "itemId": "apricot", "quantity": 3 }
+      ]
+    },
+    {
+      "stageId": "level_4",
+      "title": "Level 4",
+      "items": [
+        { "itemId": "prickly_pear", "quantity": 6 },
+        { "itemId": "olives", "quantity": 6 },
+        { "itemId": "cat_bed", "quantity": 1 }
+      ]
+    },
+    {
+      "stageId": "level_5",
+      "title": "Level 5",
+      "items": [
+        { "itemId": "mushroom", "quantity": 12 },
+        { "itemId": "apricot", "quantity": 12 },
+        { "itemId": "very_comfortable_pillow", "quantity": 3 }
+      ]
+    }
+  ]
+}
 ]
