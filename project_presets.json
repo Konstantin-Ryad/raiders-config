@@ -1,0 +1,57 @@
+{
+  "projectId": "trophy_display",
+  "title": "Trophy Display",
+  "source": "Arc Raiders - Trophy Display Project",
+  "stages": [
+    {
+      "stageId": "stage_1",
+      "title": "Step One",
+      "items": [
+        { "itemId": "rusted_bolts", "quantity": 3 },
+        { "itemId": "pop_trigger", "quantity": 15 },
+        { "itemId": "tick_pod", "quantity": 15 },
+        { "itemId": "surveyor_vault", "quantity": 5 }
+      ]
+    },
+    {
+      "stageId": "stage_2",
+      "title": "Step Two",
+      "items": [
+        { "itemId": "spotter_relay", "quantity": 10 },
+        { "itemId": "expired_respirator", "quantity": 3 },
+        { "itemId": "wasp_driver", "quantity": 20 },
+        { "itemId": "hornet_driver", "quantity": 15 }
+      ]
+    },
+    {
+      "stageId": "stage_3",
+      "title": "Step Three",
+      "items": [
+        { "itemId": "arc_performance_steel", "quantity": 10 },
+        { "itemId": "shredder_gyro", "quantity": 5 },
+        { "itemId": "leaper_pulse_unit", "quantity": 10 },
+        { "itemId": "bastion_cell", "quantity": 5 }
+      ]
+    },
+    {
+      "stageId": "stage_4",
+      "title": "Step Four",
+      "items": [
+        { "itemId": "arc_synthetic_resin", "quantity": 10 },
+        { "itemId": "magnetic_accelerator", "quantity": 10 },
+        { "itemId": "rocketeer_driver", "quantity": 8 },
+        { "itemId": "queen_reactor", "quantity": 3 }
+      ]
+    },
+    {
+      "stageId": "stage_5",
+      "title": "Step Five",
+      "items": [
+        { "itemId": "exodus_modules", "quantity": 5 },
+        { "itemId": "geiger_counter", "quantity": 3 },
+        { "itemId": "bombardier_cell", "quantity": 8 },
+        { "itemId": "matriarch_reactor", "quantity": 3 }
+      ]
+    }
+  ]
+}
